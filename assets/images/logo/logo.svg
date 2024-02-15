@@ -1,0 +1,13 @@
+<svg width="149" height="28" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <linearGradient y2="0.0049" x2="0.05359" y1="0.875" x1="0.78472" id="paint0_linear_2332_15169">
+   <stop stop-color="#365CF5"/>
+   <stop stop-color="#946FFF" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_12" fill="url(#paint0_linear_2332_15169)" d="m0,12.1739c0,-5.73883 0,-8.60824 1.78283,-10.39107c1.78283,-1.78283 4.65224,-1.78283 10.39107,-1.78283l3.6522,0c5.7388,0 8.6082,0 10.3911,1.78283c1.7828,1.78283 1.7828,4.65224 1.7828,10.39107l0,3.6522c0,5.7388 0,8.6082 -1.7828,10.3911c-1.7829,1.7828 -4.6523,1.7828 -10.3911,1.7828l-3.6522,0c-5.73883,0 -8.60824,0 -10.39107,-1.7828c-1.78283,-1.7829 -1.78283,-4.6523 -1.78283,-10.3911l0,-3.6522z"/>
+  <text style="cursor: move;" transform="matrix(0.857762 0 0 0.622301 21.9637 8.79535)" stroke="null" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" stroke-width="0" id="svg_16" y="18.12901" x="14.9914" fill="#000000">Parqueaderos</text>
+ </g>
+</svg>
