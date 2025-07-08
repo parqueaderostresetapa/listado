@@ -28,7 +28,7 @@ const dataSet = [
 [999,'9','302','FSZ496','NOV'],
 [999,'8','502','NIX01G','NOV'],
 
-;
+];
  
 dataSet.forEach(r => {
     var div1 = document.createElement('div');
