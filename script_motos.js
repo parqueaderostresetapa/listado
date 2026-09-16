@@ -1,7 +1,7 @@
 const dataSet = [
 [1,'17','401','LCA97G','OCT'],
 [2,'4','601','PZB07H','OCT'],
-[3,'','','PENDIENTE','MAR'],
+[3,'7','601','ELECTRICA','MAR'],
 [4,'23','601','DPH51F','MAR'],
 [5,'21','502','ELECTRICA','MAY'],
 [6,'15','201','BYJ37G','MAY'],
